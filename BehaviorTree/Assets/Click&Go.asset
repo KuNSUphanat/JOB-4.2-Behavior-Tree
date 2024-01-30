@@ -72,7 +72,7 @@ MonoBehaviour:
     until all of them are successful\" cardinality=\"-1\" hasParent=\"True\">\r\n         
     <BehaviorTree id=\"0\" />\r\n          <SequenceNode id=\"5\" />\r\n         
     <RepeatDecorator id=\"6\" />\r\n        </data>\r\n      </_data>\r\n    </SequenceNode>\r\n   
-    <ConditionNode id=\"1\">\r\n      <_data>\r\n        <data breakpoint=\"0\" selected=\"True\"
+    <ConditionNode id=\"1\">\r\n      <_data>\r\n        <data breakpoint=\"0\" selected=\"False\"
     position=\"165.2813 691.0712\" name=\"Basic/CheckMouseButton\" description=\"Checks
     whether a mouse button is pressed\" cardinality=\"0\" hasParent=\"True\">\r\n         
     <BehaviorTree id=\"0\" />\r\n          <ConditionNode id=\"1\" />\r\n         
